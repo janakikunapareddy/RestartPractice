@@ -1,9 +1,9 @@
 package Practices;
 
-public class Janu {
+public class Sasikala {
 
 	public static void main(String[] args) {
-		System.out.println("hi");
+		System.out.println("Hi janu");
 
 	}
 
