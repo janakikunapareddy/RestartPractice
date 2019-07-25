@@ -1,0 +1,10 @@
+package Practices;
+
+public class Sasikala {
+
+	public static void main(String[] args) {
+		System.out.println("Hi janu");
+
+	}
+
+}
